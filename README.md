@@ -1,6 +1,6 @@
 # Multimodal Fusion Tutorial
 
-![Multimodal Fusion Workflow](workflow.png)
+![Multimodal Fusion Workflow](workshop.png)
 
 This tutorial was prepared for the COMPAYL Workshop at MICCAI 2026 in collaboration with my supervisor, Nadieh Khalili.
 
@@ -12,7 +12,7 @@ Notebooks
 
 COMPAYL_tutorial.ipynb: The main workshop tutorial.
 
-Tutorial-2.ipynb: A companion notebook with implementation details and additional examples.
+Tutorial.ipynb: A companion notebook with implementation details and additional examples.
 
 Acknowledgements
 
