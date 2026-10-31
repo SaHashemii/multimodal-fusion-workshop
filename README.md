@@ -8,11 +8,11 @@ We use models I had already trained during my research project and a selected se
 
 The tutorial explores how histopathology, RNA-seq, and clinical data can be combined for survival prediction, comparing different fusion strategies and examining what happens when RNA data are missing.
 
-Notebooks
+Notebooks:
 
-COMPAYL_tutorial.ipynb: The main workshop tutorial.
+- COMPAYL_tutorial.ipynb: The main workshop tutorial.
 
-Tutorial.ipynb: A companion notebook with implementation details and additional examples.
+- Tutorial.ipynb: A companion notebook with implementation details and additional examples.
 
 Acknowledgements
 
